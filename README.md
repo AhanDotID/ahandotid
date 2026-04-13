@@ -52,8 +52,8 @@
 
 ### 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhanDotID&show_icons=true&theme=dark&bg_color=0d1117&border_color=39ff14&icon_color=39ff14&title_color=39ff14&text_color=c9d1d9&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhanDotID&layout=compact&theme=dark&bg_color=0d1117&border_color=39ff14&title_color=39ff14&text_color=c9d1d9&hide_border=false" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhanDotID&show_icons=true&theme=dark&bg_color=0d1117&border_color=39ff14&icon_color=39ff14&title_color=39ff14&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhanDotID&layout=compact&theme=dark&bg_color=0d1117&border_color=39ff14&title_color=39ff14&text_color=c9d1d9" />
 
 </div>
 
