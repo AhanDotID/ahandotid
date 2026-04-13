@@ -41,9 +41,8 @@
 
 ### 🎯 CTF & Platforms
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-ahandotid-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/ahandotid)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ahandotid-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ahandotid)
-[![CTFtime](https://img.shields.io/badge/CTFtime-ahanpahlevi-FF6B35?style=for-the-badge&logoColor=white)](https://ctftime.org/user/ahanpahlevi)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-ahandotid-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/279255)
+[![HackerOne](https://img.shields.io/badge/HackerOne-ahandotid-FF6F61?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/ahandotid)
 
 </div>
 
