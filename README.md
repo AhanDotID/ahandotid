@@ -14,7 +14,7 @@
 
   Name     : Ahan Pahlevi
   Alias    : AhanDotID
-  Location : Cianjur, Indonesia 🇮🇩
+  Location : Indonesia 🇮🇩
   Focus    : Penetration Testing | CTF | Security Research
   Language : Indonesian · English · German B1
   Status   : Open to collaboration ✔
