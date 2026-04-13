@@ -12,7 +12,7 @@
 ┌──(ahan㉿cianjursec)-[~]
 └─$ cat about.txt
 
-  Name     : Ahan Pahlevi (a.k.a Farhan Nurdiansyah)
+  Name     : Ahan Pahlevi
   Alias    : AhanDotID
   Location : Cianjur, Indonesia 🇮🇩
   Focus    : Penetration Testing | CTF | Security Research
