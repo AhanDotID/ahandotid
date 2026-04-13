@@ -9,8 +9,8 @@
 <br/>
 
 ```bash
-┌──(ahan㉿cianjursec)-[~]
-└─$ cat about.txt
+┌──(root㉿ahandotid)-[~]
+└─$ cat aboutme.txt
 
   Name     : Ahan Pahlevi
   Alias    : AhanDotID
