@@ -85,7 +85,7 @@
   
   <br/><br/>
   
-  <b>paranoia! 🔐 | CianjurSec</b>
+  <b>Ahan Pahlevi | CianjurSec</b>
 </div>
 
 <div align="center">
