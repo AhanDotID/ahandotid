@@ -10,7 +10,7 @@
 
 ```bash
 ┌──(root㉿ahandotid)-[~]
-└─$ cat aboutme.txt
+└─$ cat about.txt
 
   Name     : Ahan Pahlevi
   Alias    : AhanDotID
