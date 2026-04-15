@@ -65,19 +65,6 @@
 
 <div align="center">
 
-### 🏆 Certifications
-
-| Badge | Certification |
-|-------|--------------|
-| 🎖️ | Österreichisches Sprachdiplom Deutsch B1 — ÖSD (Austria) |
-| 🎖️ | German Language Certification B1 — Stufen Edu University Service |
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌐 Find Me
 
 [![Website](https://img.shields.io/badge/Portfolio-ahandotid.github.io-39ff14?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://ahandotid.github.io)
