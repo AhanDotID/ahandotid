@@ -69,7 +69,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-ahandotid.github.io-39ff14?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://ahandotid.github.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@paranoiahan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paranoiahan)
-[![Instagram](https://img.shields.io/badge/Instagram-@ahannn.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahannn.id)
+[![Instagram](https://img.shields.io/badge/Instagram-@ahannn.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paranoiaahan)
 [![Saweria](https://img.shields.io/badge/Support-Saweria-ff813f?style=for-the-badge)](https://saweria.co/ahandotid)
 
 </div>
